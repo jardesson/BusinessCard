@@ -1,3 +1,3 @@
 # App de Cartão de Visitas em Kotlin
 
-App desenvolvido no DESAFIO DE PROJETO do Bootcamp Inter Android Developer.
+App desenvolvido no módulo Criando um app de cartão de visitas em Kotlin do bootcamp Inter Android Developer na Digital Innovation One, instrutor Igor Rotondo Baglioti.
